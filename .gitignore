@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+*.mat
+*.mov
+.DS_Store
+lab1/data
